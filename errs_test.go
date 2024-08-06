@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/hildam/errs"
+	"github.com/HildaM/errs"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

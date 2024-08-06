@@ -1,4 +1,4 @@
-module github.com/hildam/errs
+module github.com/HildaM/errs
 
 go 1.22.4
 
